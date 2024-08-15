@@ -1,0 +1,783 @@
+1	AAPL	Apple Inc	3,371.36B	0.69%	96,347,895	381.62B
+2	MSFT	Microsoft Corporation	3,036.32B	-2.07%	29,170,678	245.12B
+3	NVDA	NVIDIA Corporation	2,638.84B	-1.78%	468,246,754	79.77B
+4	TSM	Taiwan Semiconductor Manufacturing Company Limited	701.15B	-5.26%	29,031,122	70.20B
+5	AVGO	Broadcom Inc.	669.46B	-2.18%	32,736,688	42.62B
+6	ORCL	Oracle Corporation	367.30B	-3.08%	5,800,883	52.96B
+7	ASML	ASML Holding N.V.	318.42B	-8.41%	3,496,567	27.36B
+8	SAP	SAP SE	238.81B	-0.41%	1,100,545	35.54B
+9	CRM	Salesforce, Inc.	236.41B	-3.59%	5,496,677	35.74B
+10	ADBE	Adobe Inc.	233.30B	-3.70%	2,662,587	20.43B
+11	AMD	Advanced Micro Devices, Inc.	214.45B	-0.03%	77,979,388	23.28B
+12	ACN	Accenture plc	202.42B	-1.50%	1,558,246	64.48B
+13	CSCO	Cisco Systems, Inc.	187.98B	-1.54%	21,128,206	55.36B
+14	QCOM	QUALCOMM Incorporated	177.47B	-2.86%	16,225,290	37.35B
+15	INTU	Intuit Inc.	174.41B	-2.18%	1,636,854	15.81B
+16	IBM	International Business Machines Corporation	174.21B	-0.28%	3,628,469	62.07B
+17	TXN	Texas Instruments Incorporated	171.16B	-3.04%	8,044,533	16.09B
+18	NOW	ServiceNow, Inc.	162.87B	-2.56%	1,553,645	9.96B
+19	AMAT	Applied Materials, Inc.	150.53B	-7.38%	12,108,654	26.50B
+20	ARM	Arm Holdings plc	141.05B	-6.63%	14,535,805	3.23B
+21	UBER	Uber Technologies, Inc.	123.26B	-3.33%	23,624,098	38.59B
+22	ADI	Analog Devices, Inc.	103.19B	-5.01%	6,555,104	10.46B
+23	MU	Micron Technology, Inc.	102.79B	-8.68%	35,855,718	21.37B
+24	ANET	Arista Networks, Inc.	100.32B	-5.70%	2,419,894	6.31B
+25	LRCX	Lam Research Corporation	99.76B	-8.11%	2,695,554	14.24B
+26	PANW	Palo Alto Networks, Inc.	98.95B	-3.17%	3,491,735	7.79B
+27	SONY	Sony Group Corporation	98.65B	-3.91%	1,286,536	86.00B
+28	KLAC	KLA Corporation	93.73B	-7.93%	2,069,028	9.60B
+29	FI	Fiserv, Inc.	91.49B	-1.53%	2,588,072	19.78B
+30	INTC	Intel Corporation	91.44B	-26.06%	296,703,615	55.24B
+31	INFY	Infosys Limited	90.39B	-2.38%	10,485,277	18.56B
+32	SNPS	Synopsys, Inc.	77.49B	-6.45%	2,835,953	6.19B
+33	DELL	Dell Technologies Inc.	72.34B	-5.66%	11,795,717	89.75B
+34	APH	Amphenol Corporation	71.21B	-4.81%	10,677,700	13.39B
+35	SHOP	Shopify Inc.	70.14B	-6.43%	17,705,261	7.41B
+36	MSI	Motorola Solutions, Inc.	68.43B	2.94%	1,048,613	10.20B
+37	CDNS	Cadence Design Systems, Inc.	68.35B	-4.29%	4,733,554	4.16B
+38	NXPI	NXP Semiconductors N.V.	60.56B	-2.41%	4,373,371	13.11B
+39	ROP	Roper Technologies, Inc.	57.38B	-1.54%	722,805	6.39B
+40	WDAY	Workday, Inc.	56.94B	-3.47%	2,445,973	7.56B
+41	CRWD	CrowdStrike Holdings, Inc.	53.03B	-2.82%	8,871,772	3.28B
+42	PLTR	Palantir Technologies Inc.	52.70B	-5.14%	54,342,557	2.33B
+43	MRVL	Marvell Technology, Inc.	51.29B	-6.04%	20,087,597	5.35B
+44	ADSK	Autodesk, Inc.	49.86B	-4.31%	2,811,455	5.65B
+45	TEL	TE Connectivity Ltd.	44.19B	-3.27%	1,945,588	15.81B
+46	FTNT	Fortinet, Inc.	43.17B	-1.21%	5,911,740	5.40B
+47	FIS	Fidelity National Information Services, Inc.	41.36B	-0.97%	1,866,953	11.21B
+48	TTD	The Trade Desk, Inc.	40.64B	-5.32%	4,924,221	2.05B
+49	MCHP	Microchip Technology Incorporated	40.47B	-10.60%	17,442,803	7.63B
+50	SNOW	Snowflake Inc.	40.10B	-3.57%	6,643,729	3.01B
+51	FICO	Fair Isaac Corporation	39.55B	1.36%	119,753	1.65B
+52	MPWR	Monolithic Power Systems, Inc.	38.73B	1.38%	1,329,443	1.83B
+53	TEAM	Atlassian Corporation	37.40B	-17.06%	8,348,715	4.17B
+54	SQ	Block, Inc.	37.26B	0.80%	17,108,358	22.88B
+55	IT	Gartner, Inc.	36.93B	-2.83%	285,768	6.06B
+56	CTSH	Cognizant Technology Solutions Corporation	36.79B	-3.03%	3,845,661	19.30B
+57	SMCI	Super Micro Computer, Inc.	36.58B	-7.08%	7,637,083	11.82B
+58	DDOG	Datadog, Inc.	35.87B	-5.17%	5,126,818	2.26B
+59	GLW	Corning Incorporated	33.36B	-2.75%	5,526,817	12.39B
+60	HPQ	HP Inc.	33.00B	-4.12%	6,451,358	53.00B
+61	GRMN	Garmin Ltd.	32.37B	-1.48%	708,310	5.65B
+62	WIT	Wipro Limited	30.93B	-2.95%	1,444,568	-
+63	ON	ON Semiconductor Corporation	29.11B	-5.49%	11,459,704	7.80B
+64	CDW	CDW Corporation	28.03B	-1.75%	1,438,945	20.94B
+65	STM	STMicroelectronics N.V.	27.04B	-3.76%	5,817,538	15.41B
+66	NET	Cloudflare, Inc.	27.00B	6.80%	9,334,958	1.39B
+67	ANSS	ANSYS, Inc.	26.38B	-2.46%	671,504	2.23B
+68	MSTR	MicroStrategy Incorporated	25.68B	-4.22%	1,397,391	489.59M
+69	ZS	Zscaler, Inc.	25.62B	-2.82%	2,162,892	2.03B
+70	BR	Broadridge Financial Solutions, Inc.	25.52B	0.47%	397,670	6.40B
+71	GFS	GlobalFoundries Inc.	25.26B	-5.33%	2,963,985	7.10B
+72	GIB	CGI Inc.	24.83B	-2.33%	115,997	-
+73	TYL	Tyler Technologies, Inc.	24.57B	1.07%	226,993	1.99B
+74	NTAP	NetApp, Inc.	24.47B	-2.82%	1,758,441	6.27B
+75	FTV	Fortive Corporation	23.98B	-2.87%	2,285,081	6.16B
+76	HUBS	HubSpot, Inc.	23.73B	-3.36%	1,015,051	2.29B
+77	HPE	Hewlett Packard Enterprise Company	23.43B	-5.50%	12,640,680	28.31B
+78	KSPI	Joint Stock Company Kaspi.kz	23.04B	-3.47%	305,870	4.37B
+79	FSLR	First Solar, Inc.	22.81B	-2.50%	2,647,512	3.76B
+80	ERIC	Telefonaktiebolaget LM Ericsson (publ)	22.67B	-0.59%	23,440,981	26.13B
+81	APP	AppLovin Corporation	22.61B	-8.48%	4,277,914	3.63B
+82	KEYS	Keysight Technologies, Inc.	22.11B	-4.40%	1,526,732	5.17B
+83	GDDY	GoDaddy Inc.	21.32B	6.96%	2,274,341	4.33B
+84	NOK	Nokia Oyj	21.17B	-2.53%	19,097,826	24.73B
+85	PTC	PTC Inc.	20.60B	-2.17%	1,278,921	2.24B
+86	CHKP	Check Point Software Technologies Ltd.	20.03B	-0.77%	608,583	2.49B
+87	STX	Seagate Technology Holdings plc	19.86B	-4.48%	4,149,689	6.27B
+88	UMC	United Microelectronics Corporation	19.75B	-2.48%	19,673,524	-
+89	LDOS	Leidos Holdings, Inc.	19.59B	0.44%	1,063,158	16.01B
+90	IOT	Samsara Inc.	19.50B	-3.44%	3,828,217	1.01B
+91	CPAY	Corpay, Inc.	19.32B	-3.51%	454,137	3.79B
+92	ASX	ASE Technology Holding Co., Ltd.	19.28B	-6.20%	12,440,563	18.06B
+93	TDY	Teledyne Technologies Incorporated	19.21B	-1.83%	256,345	5.55B
+94	WDC	Western Digital Corporation	18.69B	-5.45%	12,927,621	11.91B
+95	VRSN	VeriSign, Inc.	18.32B	-0.35%	772,405	1.53B
+96	TER	Teradyne, Inc.	18.31B	-3.67%	3,485,493	2.66B
+97	ZM	Zoom Video Communications, Inc.	18.09B	-0.81%	2,361,189	4.56B
+98	SSNC	SS&C Technologies Holdings, Inc.	17.71B	-0.80%	1,157,583	5.58B
+99	PSTG	Pure Storage, Inc.	17.66B	-4.45%	2,641,590	2.93B
+100	MDB	MongoDB, Inc.	17.07B	-2.77%	1,648,446	1.77B
+101	SWKS	Skyworks Solutions, Inc.	16.72B	-3.06%	3,253,120	4.37B
+102	ZBRA	Zebra Technologies Corporation	16.62B	-5.92%	438,208	4.36B
+103	GEN	Gen Digital Inc.	15.48B	-0.32%	5,610,076	3.81B
+104	ENTG	Entegris, Inc.	15.42B	-7.04%	5,590,659	3.28B
+105	MANH	Manhattan Associates, Inc.	14.94B	-2.68%	392,637	996.57M
+106	AKAM	Akamai Technologies, Inc.	14.40B	-0.92%	1,186,438	3.88B
+107	ENPH	Enphase Energy, Inc.	14.25B	-4.09%	2,846,500	1.42B
+108	OKTA	Okta, Inc.	13.95B	-5.13%	2,133,948	2.36B
+109	BSY	Bentley Systems, Incorporated	13.81B	-3.32%	1,182,228	1.25B
+110	TOST	Toast, Inc.	13.57B	-3.17%	8,883,188	4.12B
+111	LOGI	Logitech International S.A.	13.39B	-0.22%	1,430,143	4.41B
+112	JNPR	Juniper Networks, Inc.	12.57B	0.90%	3,416,600	5.10B
+113	GRAB	Grab Holdings Limited	12.44B	-	20,615,436	2.49B
+114	TRMB	Trimble Inc.	12.42B	-3.14%	1,965,197	3.80B
+115	JKHY	Jack Henry & Associates, Inc.	12.41B	0.67%	315,852	2.19B
+116	DT	Dynatrace, Inc.	12.31B	-2.71%	4,004,602	1.43B
+117	EPAM	EPAM Systems, Inc.	12.12B	-2.77%	359,027	4.65B
+118	GWRE	Guidewire Software, Inc.	11.90B	-3.39%	1,061,273	958.94M
+119	NTNX	Nutanix, Inc.	11.65B	-3.61%	2,258,537	2.10B
+120	AZPN	Aspen Technology, Inc.	11.52B	-0.04%	243,355	1.11B
+121	FLEX	Flex Ltd.	11.35B	-6.78%	3,883,583	25.39B
+122	JBL	Jabil Inc.	11.30B	-8.61%	3,485,116	30.38B
+123	FFIV	F5, Inc.	11.25B	-1.79%	505,761	2.78B
+124	NICE	NICE Ltd.	10.90B	-2.81%	303,042	2.46B
+125	TWLO	Twilio Inc.	10.76B	11.71%	7,484,830	4.19B
+126	CYBR	CyberArk Software Ltd.	10.66B	-3.16%	493,922	811.73M
+127	DOCU	DocuSign, Inc.	10.59B	-3.51%	2,013,751	2.81B
+128	ESTC	Elastic N.V.	10.39B	-4.72%	1,053,904	1.27B
+129	UI	Ubiquiti Inc.	10.38B	-2.52%	53,817	1.91B
+130	CACI	CACI International Inc	10.28B	-0.60%	99,104	7.32B
+131	QRVO	Qorvo, Inc.	10.24B	-2.46%	2,320,286	4.01B
+132	MNDY	monday.com Ltd.	10.14B	-6.21%	689,445	784.35M
+133	DOX	Amdocs Limited	9.92B	-0.56%	465,022	4.97B
+134	SNX	TD SYNNEX Corporation	9.70B	-3.14%	660,908	56.29B
+135	PAYC	Paycom Software, Inc.	9.55B	-1.83%	727,048	1.74B
+136	PSN	Parsons Corporation	9.44B	0.33%	1,065,109	6.12B
+137	COHR	Coherent, Inc.	8.98B	-10.00%	3,747,134	4.60B
+138	PCTY	Paylocity Holding Corporation	8.92B	6.65%	1,053,812	1.35B
+139	DAY	Dayforce Inc.	8.42B	-5.89%	2,908,544	1.63B
+140	PCOR	Procore Technologies, Inc.	8.31B	-15.53%	15,372,544	1.01B
+141	INFA	Informatica Inc.	8.26B	-3.02%	2,137,082	1.62B
+142	WIX	Wix.com Ltd.	8.24B	0.06%	403,293	1.61B
+143	GLOB	Globant S.A.	8.23B	-0.83%	330,204	2.19B
+144	DSGX	The Descartes Systems Group Inc.	8.17B	-3.83%	185,229	587.67M
+145	OLED	Universal Display Corporation	8.17B	-18.99%	1,254,445	611.22M
+146	AFRM	Affirm Holdings, Inc.	7.96B	-2.46%	8,197,917	2.11B
+147	APPF	AppFolio, Inc.	7.95B	-2.36%	301,327	722.08M
+148	YMM	Full Truck Alliance Co. Ltd.	7.89B	-2.21%	6,269,642	1.25B
+149	ONTO	Onto Innovation Inc.	7.81B	-8.76%	1,280,334	845.55M
+150	OTEX	Open Text Corporation	7.77B	-6.56%	1,099,696	5.90B
+151	GTLB	GitLab Inc.	7.58B	-1.55%	2,178,224	622.22M
+152	SPSC	SPS Commerce, Inc.	7.44B	-4.02%	153,934	583.80M
+153	DBX	Dropbox, Inc.	7.43B	-3.10%	3,499,200	2.52B
+154	FN	Fabrinet	7.32B	-5.77%	516,791	2.79B
+155	MKSI	MKS Instruments, Inc.	7.16B	-7.14%	2,061,132	3.70B
+156	WEX	WEX Inc.	7.12B	-3.76%	485,186	2.64B
+157	AMKR	Amkor Technology, Inc.	7.05B	-4.60%	2,478,606	6.40B
+158	HCP	HashiCorp, Inc.	7.03B	-0.27%	2,188,947	605.73M
+159	MTSI	MACOM Technology Solutions Holdings, Inc.	7.00B	-2.53%	933,664	637.28M
+160	DUOL	Duolingo, Inc.	6.99B	-1.51%	706,700	583.00M
+161	CIEN	Ciena Corporation	6.92B	-6.18%	1,768,173	4.15B
+162	ALTR	Altair Engineering Inc.	6.87B	-2.97%	806,866	619.58M
+163	ARW	Arrow Electronics, Inc.	6.69B	-2.47%	726,049	31.29B
+164	S	SentinelOne, Inc.	6.61B	-2.36%	4,536,884	674.12M
+165	ALAB	Astera Labs, Inc.	6.60B	4.77%	3,050,295	163.39M
+166	CGNX	Cognex Corporation	6.56B	-2.20%	2,322,847	847.22M
+167	PATH	UiPath Inc.	6.54B	-3.31%	11,835,485	1.35B
+168	CCCS	CCC Intelligent Solutions Holdings Inc.	6.37B	-	4,252,707	909.60M
+169	SMAR	Smartsheet Inc.	6.36B	-2.52%	1,213,711	1.00B
+170	OS	OneStream, Inc.	6.34B	-1.01%	900,450	406.39M
+171	KVYO	Klaviyo, Inc.	6.33B	-5.23%	1,240,727	752.00M
+172	SAIC	Science Applications International Corporation	6.30B	-0.24%	156,062	7.26B
+173	LSCC	Lattice Semiconductor Corporation	6.21B	-6.96%	4,593,292	627.66M
+174	CRUS	Cirrus Logic, Inc.	6.13B	-5.28%	504,106	1.79B
+175	CFLT	Confluent, Inc.	6.13B	-6.52%	9,127,505	865.59M
+176	LFUS	Littelfuse, Inc.	6.13B	-4.49%	86,047	2.29B
+177	G	Genpact Limited	6.09B	-0.97%	768,863	4.52B
+178	SQSP	Squarespace, Inc.	6.07B	-0.05%	829,902	1.06B
+179	NXT	Nextracker Inc.	6.01B	-10.36%	8,683,924	2.50B
+180	AUR	Aurora Innovation, Inc.	6.01B	-5.65%	22,690,532	-
+181	U	Unity Software Inc.	5.99B	-0.20%	11,887,464	2.15B
+182	CVLT	Commvault Systems, Inc.	5.97B	-7.18%	642,573	865.77M
+183	NSIT	Insight Enterprises, Inc.	5.91B	-8.21%	448,952	9.23B
+184	VERX	Vertex, Inc.	5.86B	-2.44%	1,142,732	596.42M
+185	CWAN	Clearwater Analytics Holdings, Inc.	5.85B	1.02%	2,376,694	386.28M
+186	NOVT	Novanta Inc.	5.84B	-4.47%	205,865	893.45M
+187	VRNS	Varonis Systems, Inc.	5.81B	-2.58%	1,669,238	520.78M
+188	BMI	Badger Meter, Inc.	5.75B	-3.31%	133,803	781.57M
+189	PEGA	Pegasystems Inc.	5.73B	-2.02%	676,607	1.49B
+190	RBRK	Rubrik, Inc.	5.59B	-10.21%	1,128,771	679.47M
+191	EXLS	ExlService Holdings, Inc.	5.53B	4.13%	1,723,202	1.67B
+192	CLS	Celestica Inc.	5.49B	-8.14%	4,381,626	8.78B
+193	ST	Sensata Technologies Holding plc	5.47B	-2.82%	1,506,774	4.04B
+194	KD	Kyndryl Holdings, Inc.	5.39B	-0.47%	3,828,010	16.05B
+195	SATS	EchoStar Corporation	5.29B	-2.26%	891,251	20.59B
+196	VNT	Vontier Corporation	5.10B	-6.33%	1,445,286	3.07B
+197	QLYS	Qualys, Inc.	5.09B	-0.48%	436,413	569.58M
+198	ALGM	Allegro MicroSystems, Inc.	5.07B	-5.71%	4,493,977	1.05B
+199	ZETA	Zeta Global Holdings Corp.	5.03B	-4.09%	5,238,590	766.07M
+200	NVMI	Nova Ltd.	5.03B	-8.65%	328,008	527.53M
+201	ASTS	AST SpaceMobile, Inc.	4.98B	-9.44%	9,675,882	500.00K
+202	TENB	Tenable Holdings, Inc.	4.97B	-1.67%	1,307,371	825.83M
+203	BILL	BILL Holdings, Inc.	4.96B	-2.85%	2,270,316	1.24B
+204	QXO	QXO, Inc.	4.91B	-2.91%	3,448,027	55.82M
+205	ACIW	ACI Worldwide, Inc.	4.73B	-1.95%	910,567	1.48B
+206	CLVT	Clarivate Plc	4.65B	-0.93%	3,090,218	2.62B
+207	ITRI	Itron, Inc.	4.64B	-6.42%	974,839	2.28B
+208	NVEI	Nuvei Corporation	4.62B	-0.27%	959,808	1.27B
+209	AVT	Avnet, Inc.	4.59B	-3.19%	540,515	24.75B
+210	RMBS	Rambus Inc.	4.53B	-6.19%	2,989,892	465.23M
+211	EEFT	Euronet Worldwide, Inc.	4.41B	-3.50%	258,685	3.76B
+212	CNXC	Concentrix Corporation	4.36B	-1.97%	456,669	8.65B
+213	LYFT	Lyft, Inc.	4.31B	-4.38%	16,272,217	4.68B
+214	CRDO	Credo Technology Group Holding Ltd	4.18B	-4.63%	2,209,253	192.97M
+215	TSEM	Tower Semiconductor Ltd.	4.16B	-4.36%	391,380	1.39B
+216	ASGN	ASGN Incorporated	4.16B	-1.65%	279,769	4.37B
+217	BDC	Belden Inc.	4.04B	-1.16%	625,736	2.41B
+218	QTWO	Q2 Holdings, Inc.	4.02B	-4.78%	830,139	637.12M
+219	BRZE	Braze, Inc.	3.99B	-6.30%	860,441	505.48M
+220	PAGS	PagSeguro Digital Ltd.	3.97B	-2.82%	2,646,856	3.28B
+221	WK	Workiva Inc.	3.96B	-0.50%	1,173,974	655.52M
+222	LPL	LG Display Co., Ltd.	3.95B	-4.36%	171,036	16.75B
+223	BLKB	Blackbaud, Inc.	3.94B	-2.35%	219,010	1.12B
+224	BOX	Box, Inc.	3.93B	-2.81%	1,210,093	1.05B
+225	PI	Impinj, Inc.	3.92B	-3.58%	626,263	314.98M
+226	ZI	ZoomInfo Technologies Inc.	3.89B	-5.54%	7,827,526	1.25B
+227	FOUR	Shift4 Payments, Inc.	3.89B	-3.55%	1,011,631	2.73B
+228	STNE	StoneCo Ltd.	3.86B	-2.12%	5,656,213	2.47B
+229	ALIT	Alight, Inc.	3.85B	-3.00%	4,334,985	3.14B
+230	CAMT	Camtek Ltd.	3.80B	-8.62%	1,393,275	339.93M
+231	FROG	JFrog Ltd.	3.79B	-2.86%	876,826	370.38M
+232	POWI	Power Integrations, Inc.	3.76B	-3.07%	733,388	429.93M
+233	PWSC	PowerSchool Holdings, Inc.	3.76B	0.04%	959,145	723.16M
+234	RUN	Sunrun Inc.	3.71B	-4.46%	11,978,740	2.13B
+235	NCNO	nCino, Inc.	3.62B	-2.15%	1,133,444	490.96M
+236	SANM	Sanmina Corporation	3.55B	-10.59%	638,591	7.60B
+237	DXC	DXC Technology Company	3.52B	-1.76%	1,311,514	13.67B
+238	FRSH	Freshworks Inc.	3.52B	-2.51%	2,265,727	652.94M
+239	DV	DoubleVerify Holdings, Inc.	3.46B	-3.32%	2,786,665	612.88M
+240	ACLS	Axcelis Technologies, Inc.	3.46B	-5.75%	1,459,049	1.13B
+241	IDCC	InterDigital, Inc.	3.44B	-0.47%	1,024,240	610.76M
+242	ENV	Envestnet, Inc.	3.42B	-0.03%	835,713	1.27B
+243	INST	Instructure Holdings, Inc.	3.40B	-0.17%	748,620	556.82M
+244	SLAB	Silicon Laboratories Inc.	3.36B	-6.83%	337,371	542.35M
+245	ALRM	Alarm.com Holdings, Inc.	3.31B	-3.50%	293,417	895.25M
+246	RNG	RingCentral, Inc.	3.25B	5.41%	2,882,347	2.25B
+247	PLXS	Plexus Corp.	3.22B	-5.48%	170,180	4.00B
+248	SRAD	Sportradar Group AG	3.18B	-0.75%	1,005,080	1.02B
+249	IPGP	IPG Photonics Corporation	3.16B	-7.39%	341,110	1.11B
+250	FORM	FormFactor, Inc.	3.16B	-13.44%	2,241,244	664.38M
+251	ALKT	Alkami Technology, Inc.	3.14B	-4.78%	638,455	280.96M
+252	VSH	Vishay Intertechnology, Inc.	3.08B	-4.67%	1,014,472	3.28B
+253	DIOD	Diodes Incorporated	3.08B	-10.24%	507,365	1.50B
+254	FIVN	Five9, Inc.	3.01B	-4.92%	1,362,221	939.06M
+255	LITE	Lumentum Holdings Inc.	3.00B	-7.67%	1,780,555	1.42B
+256	SYNA	Synaptics Incorporated	2.97B	-7.74%	519,264	939.30M
+257	AI	C3.ai, Inc.	2.96B	-5.38%	3,932,030	310.58M
+258	ASAN	Asana, Inc.	2.95B	-7.83%	2,867,922	672.54M
+259	AGYS	Agilysys, Inc.	2.95B	-3.13%	160,265	244.92M
+260	TDC	Teradata Corporation	2.95B	-2.84%	794,282	1.82B
+261	ESE	ESCO Technologies Inc.	2.94B	-3.34%	84,456	988.84M
+262	GBTG	Global Business Travel Group, Inc.	2.92B	-3.44%	470,618	2.32B
+263	BL	BlackLine, Inc.	2.82B	-1.30%	729,252	608.47M
+264	CLBT	Cellebrite DI Ltd.	2.66B	-3.06%	1,225,459	343.46M
+265	PRFT	Perficient, Inc.	2.65B	-0.08%	575,095	890.44M
+266	WNS	WNS (Holdings) Limited	2.63B	-1.61%	276,581	1.32B
+267	RELY	Remitly Global, Inc.	2.62B	-2.33%	2,184,098	1.01B
+268	DOCN	DigitalOcean Holdings, Inc.	2.61B	-7.00%	2,250,881	712.48M
+269	SITM	SiTime Corporation	2.60B	-10.40%	454,468	138.67M
+270	MQ	Marqeta, Inc.	2.53B	-4.68%	4,832,038	576.80M
+271	WBTN	WEBTOON Entertainment Inc.	2.50B	-4.23%	761,702	1.30B
+272	NABL	N-able, Inc.	2.50B	-1.46%	485,943	435.81M
+273	INTA	Intapp, Inc.	2.48B	-2.85%	376,549	410.77M
+274	CALX	Calix, Inc.	2.47B	-3.65%	621,895	953.02M
+275	CXM	Sprinklr, Inc.	2.43B	-3.57%	998,284	754.96M
+276	PRGS	Progress Software Corporation	2.42B	-1.31%	329,775	711.72M
+277	LIF	Life360, Inc.	2.41B	-1.88%	130,949	314.60M
+278	VSAT	Viasat, Inc.	2.38B	-0.75%	1,094,334	4.28B
+279	PAY	Paymentus Holdings, Inc.	2.38B	-6.44%	170,561	651.04M
+280	OSIS	OSI Systems, Inc.	2.38B	-3.68%	91,005	1.47B
+281	RUM	Rumble Inc.	2.33B	-2.11%	1,109,971	81.08M
+282	FLYW	Flywire Corporation	2.32B	9.41%	4,708,076	422.84M
+283	KLIC	Kulicke and Soffa Industries, Inc.	2.26B	-7.73%	1,215,602	736.50M
+284	EVTC	EVERTEC, Inc.	2.22B	-1.57%	525,901	740.21M
+285	RPD	Rapid7, Inc.	2.20B	-1.26%	1,101,683	799.63M
+286	PLUS	ePlus inc.	2.19B	-5.65%	171,078	2.23B
+287	ODD	Oddity Tech Ltd.	2.19B	-2.83%	244,611	554.66M
+288	VZIO	VIZIO Holding Corp.	2.18B	-0.09%	891,653	1.68B
+289	JAMF	Jamf Holding Corp.	2.16B	-4.75%	323,644	580.48M
+290	APPN	Appian Corporation	2.16B	1.41%	1,299,868	559.96M
+291	PYCR	Paycor HCM, Inc.	2.13B	-1.48%	875,800	630.19M
+292	DLO	DLocal Limited	2.12B	-2.59%	1,586,297	697.49M
+293	NATL	NCR Atleos Corporation	2.09B	-5.28%	353,189	4.26B
+294	SIMO	Silicon Motion Technology Corporation	2.09B	-3.64%	736,337	639.14M
+295	ROG	Rogers Corporation	2.07B	-4.71%	98,705	861.33M
+296	EVCM	EverCommerce Inc.	2.05B	-3.98%	125,149	684.35M
+297	VRNT	Verint Systems Inc.	2.03B	-3.68%	691,514	915.10M
+298	PAYO	Payoneer Global Inc.	2.01B	-4.10%	4,258,311	867.27M
+299	GDS	GDS Holdings Limited	2.00B	-5.01%	1,050,096	1.41B
+300	VECO	Veeco Instruments Inc.	2.00B	-9.73%	1,622,516	687.42M
+301	SPNS	Sapiens International Corporation N.V.	1.99B	-1.16%	178,197	524.11M
+302	SMTC	Semtech Corporation	1.97B	-1.04%	1,476,685	838.32M
+303	VYX	NCR Voyix Corporation	1.95B	-5.21%	2,092,614	2.80B
+304	GRND	Grindr Inc.	1.94B	-2.21%	396,935	279.23M
+305	SEMR	Semrush Holdings, Inc.	1.94B	-5.59%	476,130	322.62M
+306	RAMP	LiveRamp Holdings, Inc.	1.93B	-3.00%	660,585	659.66M
+307	WOLF	Wolfspeed, Inc.	1.92B	-7.06%	8,412,306	842.30M
+308	CNXN	PC Connection, Inc.	1.91B	-3.13%	125,535	2.76B
+309	AVPT	AvePoint, Inc.	1.90B	-4.92%	1,149,703	286.79M
+310	IBTA	Ibotta, Inc.	1.88B	-5.65%	94,451	344.67M
+311	SWI	SolarWinds Corporation	1.87B	-4.22%	1,125,464	766.08M
+312	UPBD	Upbound Group, Inc.	1.87B	-2.79%	547,183	4.07B
+313	TTMI	TTM Technologies, Inc.	1.86B	-6.29%	1,118,690	2.26B
+314	SPT	Sprout Social, Inc.	1.86B	-11.62%	1,047,602	355.22M
+315	DFIN	Donnelley Financial Solutions, Inc.	1.86B	-0.79%	166,916	802.60M
+316	PD	PagerDuty, Inc.	1.86B	-2.80%	1,256,239	438.63M
+317	LSPD	Lightspeed Commerce Inc.	1.83B	-9.49%	1,766,081	909.27M
+318	YOU	Clear Secure, Inc.	1.80B	-6.71%	1,741,692	660.27M
+319	AMBA	Ambarella, Inc.	1.79B	-8.55%	836,520	218.81M
+320	DAVA	Endava plc	1.79B	-4.36%	362,888	943.76M
+321	MLNK	MeridianLink, Inc.	1.74B	-2.04%	290,317	304.30M
+322	EXTR	Extreme Networks, Inc.	1.70B	-3.40%	1,945,046	1.22B
+323	VIAV	Viavi Solutions Inc.	1.67B	-1.45%	1,615,713	1.01B
+324	VICR	Vicor Corporation	1.67B	-5.01%	258,967	391.12M
+325	UCTT	Ultra Clean Holdings, Inc.	1.63B	-9.00%	580,185	1.87B
+326	HLIT	Harmonic Inc.	1.62B	-4.00%	1,780,010	572.32M
+327	AVDX	AvidXchange Holdings, Inc.	1.61B	-5.45%	7,916,315	399.50M
+328	PAR	PAR Technology Corporation	1.60B	-3.98%	595,947	420.88M
+329	CORZ	Core Scientific, Inc.	1.58B	-6.03%	7,945,313	561.04M
+330	SONO	Sonos, Inc.	1.54B	-4.20%	2,800,963	1.54B
+331	KN	Knowles Corporation	1.54B	-3.54%	955,386	791.40M
+332	STER	Sterling Check Corp.	1.52B	-0.64%	306,411	726.37M
+333	SOUN	SoundHound AI, Inc.	1.52B	-0.86%	17,709,124	50.76M
+334	IONQ	IonQ, Inc.	1.50B	-5.85%	5,058,017	25.34M
+335	BHE	Benchmark Electronics, Inc.	1.50B	-4.99%	296,130	2.82B
+336	SEDG	SolarEdge Technologies, Inc.	1.45B	-4.60%	3,148,917	2.24B
+337	DBD	Diebold Nixdorf, Incorporated	1.45B	-6.95%	133,347	3.49B
+338	ARRY	Array Technologies, Inc.	1.43B	-8.55%	8,030,117	1.35B
+339	CTS	CTS Corporation	1.40B	-4.94%	247,070	515.16M
+340	PLAB	Photronics, Inc.	1.40B	-6.13%	759,010	885.01M
+341	INFN	Infinera Corporation	1.38B	-2.00%	6,644,576	1.53B
+342	NTCT	NetScout Systems, Inc.	1.37B	-2.00%	450,760	829.46M
+343	TASK	TaskUs, Inc.	1.36B	-6.01%	341,415	916.53M
+344	MTTR	Matterport, Inc.	1.34B	-1.64%	3,037,602	159.63M
+345	CSGS	CSG Systems International, Inc.	1.34B	-1.21%	175,301	1.17B
+346	BB	BlackBerry Limited	1.31B	-3.48%	5,773,677	624.00M
+347	WKME	WalkMe Ltd.	1.30B	-	606,373	269.64M
+348	ETWO	E2open Parent Holdings, Inc.	1.30B	-5.61%	543,624	625.60M
+349	ZUO	Zuora, Inc.	1.29B	-1.58%	1,061,309	438.34M
+350	CRCT	Cricut, Inc.	1.27B	-2.66%	718,369	751.31M
+351	XRX	Xerox Holdings Corporation	1.26B	-2.31%	3,465,723	6.67B
+352	COHU	Cohu, Inc.	1.25B	-4.95%	763,287	564.57M
+353	SABR	Sabre Corporation	1.20B	-4.27%	5,040,485	2.95B
+354	PSFE	Paysafe Limited	1.18B	-4.15%	216,440	1.63B
+355	SCSC	ScanSource, Inc.	1.17B	-3.58%	203,988	3.46B
+356	PDFS	PDF Solutions, Inc.	1.14B	-10.11%	302,735	166.39M
+357	TIXT	TELUS International (Cda) Inc.	1.14B	-35.96%	2,707,072	2.68B
+358	ADEA	Adeia Inc.	1.14B	-5.32%	569,004	354.89M
+359	VTEX	VTEX	1.13B	-3.00%	671,229	211.88M
+360	FORTY	Formula Systems (1985) Ltd.	1.13B	-0.01%	4,246	2.65B
+361	KARO	Karooooo Ltd.	1.12B	-5.09%	19,190	229.20M
+362	DCBO	Docebo Inc.	1.12B	-2.93%	279,934	190.78M
+363	DQ	Daqo New Energy Corp.	1.10B	-5.16%	954,807	2.01B
+364	TWKS	Thoughtworks Holding, Inc.	1.09B	-4.78%	1,520,857	1.07B
+365	BMBL	Bumble Inc.	1.08B	-3.84%	2,680,782	1.08B
+366	SGH	SMART Global Holdings, Inc.	1.07B	-5.96%	3,238,565	1.02B
+367	PRO	PROS Holdings, Inc.	1.07B	-3.90%	691,095	317.44M
+368	HIMX	Himax Technologies, Inc.	1.06B	-1.46%	850,797	908.77M
+369	GDYN	Grid Dynamics Holdings, Inc.	1.06B	12.98%	1,324,164	312.65M
+370	MXL	MaxLinear, Inc.	1.05B	-7.36%	1,711,308	448.14M
+371	AILE	iLearningEngines, Inc.	1.05B	-0.94%	111,995	545.52M
+372	GCT	GigaCloud Technology Inc.	1.04B	-6.85%	1,261,105	827.11M
+373	FSLY	Fastly, Inc.	1.03B	-2.21%	2,281,188	521.94M
+374	BTDR	Bitdeer Technologies Group	1.02B	-11.49%	3,243,344	-
+375	RSKD	Riskified Ltd.	1.00B	-3.78%	913,248	305.11M
+376	PUBM	PubMatic, Inc.	1.00B	-5.34%	295,056	278.31M
+377	AOSL	Alpha and Omega Semiconductor Limited	999.11M	-8.99%	464,380	657.50M
+378	NOVA	Sunnova Energy International Inc.	990.62M	-3.73%	9,114,028	719.86M
+379	SHLS	Shoals Technologies Group, Inc.	988.44M	-6.90%	5,900,848	474.66M
+380	JKS	JinkoSolar Holding Co., Ltd.	975.22M	-5.40%	995,890	16.74B
+381	ICHR	Ichor Holdings, Ltd.	973.12M	-6.23%	514,298	786.63M
+382	ACMR	ACM Research, Inc.	969.81M	-3.87%	2,393,760	635.66M
+383	AMPL	Amplitude, Inc.	967.42M	-3.17%	697,589	282.43M
+384	ATEN	A10 Networks, Inc.	962.48M	0.31%	887,484	248.96M
+385	PGY	Pagaya Technologies Ltd.	962.12M	-3.96%	774,080	870.69M
+386	CSIQ	Canadian Solar Inc.	958.87M	-7.35%	1,872,487	7.24B
+387	RPAY	Repay Holdings Corporation	938.05M	-1.39%	1,406,074	302.81M
+388	RDWR	Radware Ltd.	930.18M	-0.18%	384,044	259.01M
+389	NN	NextNav Inc.	912.13M	-4.73%	719,862	4.08M
+390	TUYA	Tuya Inc.	894.30M	1.36%	221,684	244.17M
+391	DGII	Digi International Inc.	883.90M	-3.23%	226,467	438.19M
+392	INDI	indie Semiconductor, Inc.	870.27M	-4.34%	2,772,991	235.07M
+393	BASE	Couchbase, Inc.	867.34M	-3.96%	401,394	190.37M
+394	BELFA	Bel Fuse Inc.	855.93M	-6.57%	7,143	595.56M
+395	IMOS	ChipMOS TECHNOLOGIES INC.	853.78M	-2.53%	33,441	694.96M
+396	GB	Global Blue Group Holding AG	852.25M	0.66%	43,363	459.03M
+397	BELFB	Bel Fuse Inc.	846.51M	-7.60%	74,570	595.56M
+398	OLO	Olo Inc.	842.73M	-2.78%	2,283,583	257.81M
+399	ENFN	Enfusion, Inc.	831.80M	-2.06%	232,985	181.62M
+400	CINT	CI&T Inc.	810.09M	-1.95%	67,213	426.84M
+401	NYAX	Nayax Ltd.	780.84M	3.37%	4,262	247.04M
+402	CNDT	Conduent Incorporated	767.19M	-4.82%	1,032,930	3.72B
+403	HCKT	The Hackett Group, Inc.	735.63M	-1.00%	91,952	302.55M
+404	SCWX	SecureWorks Corp.	706.34M	0.88%	58,464	357.14M
+405	IMXI	International Money Express, Inc.	705.02M	-3.14%	374,227	663.78M
+406	KC	Kingsoft Cloud Holdings Limited	675.53M	-1.61%	537,596	966.49M
+407	YEXT	Yext, Inc.	673.58M	-3.78%	497,329	400.86M
+408	ML	MoneyLion Inc.	668.86M	-4.45%	165,674	450.77M
+409	CRSR	Corsair Gaming, Inc.	666.04M	-18.76%	1,326,457	1.44B
+410	YALA	Yalla Group Limited	652.06M	-4.33%	201,705	324.09M
+411	DSP	Viant Technology Inc.	647.64M	-10.84%	193,529	234.61M
+412	DMRC	Digimarc Corporation	639.28M	-4.71%	57,404	36.95M
+413	DAKT	Daktronics, Inc.	638.43M	-5.55%	703,001	818.08M
+414	BLND	Blend Labs, Inc.	633.95M	1.16%	2,258,397	154.46M
+415	VMEO	Vimeo, Inc.	622.90M	-3.41%	1,198,063	418.54M
+416	APLD	Applied Digital Corporation	621.38M	-5.57%	3,414,259	143.91M
+417	NVTS	Navitas Semiconductor Corporation	595.08M	-3.56%	2,660,062	89.27M
+418	HKD	AMTD Digital Inc.	585.82M	-8.93%	276,758	27.82M
+419	MITK	Mitek Systems, Inc.	584.88M	-4.36%	459,526	164.61M
+420	MLAB	Mesa Laboratories, Inc.	578.24M	-3.72%	29,655	216.19M
+421	DJCO	Daily Journal Corporation	571.47M	-5.17%	12,160	71.82M
+422	IIIV	i3 Verticals, Inc.	555.98M	-1.58%	280,519	376.87M
+423	CLFD	Clearfield, Inc.	555.38M	-8.49%	358,612	182.11M
+424	SSYS	Stratasys Ltd.	554.36M	-4.95%	803,264	622.27M
+425	NNDM	Nano Dimension Ltd.	551.78M	-3.42%	1,121,233	54.71M
+426	OSPN	OneSpan Inc.	549.52M	0.07%	657,354	242.34M
+427	ITRN	Ituran Location and Control Ltd.	537.50M	0.53%	106,802	325.53M
+428	OUST	Ouster, Inc.	532.30M	-5.39%	863,422	91.99M
+429	CTLP	Cantaloupe, Inc.	523.50M	-5.02%	378,799	260.11M
+430	CGNT	Cognyte Software Ltd.	520.24M	-1.35%	404,528	322.85M
+431	MGIC	Magic Software Enterprises Ltd.	518.98M	-0.84%	49,053	523.33M
+432	LASR	nLIGHT, Inc.	517.99M	-2.94%	518,355	200.36M
+433	VNET	VNET Group, Inc.	509.07M	-6.57%	591,199	1.04B
+434	SMWB	Similarweb Ltd.	494.72M	-2.84%	109,393	224.25M
+435	COMM	CommScope Holding Company, Inc.	486.11M	-8.76%	7,018,619	4.96B
+436	INOD	Innodata Inc.	482.19M	-7.04%	548,875	94.44M
+437	ADTN	ADTRAN Holdings, Inc.	481.03M	-5.30%	756,694	1.05B
+438	BIGC	BigCommerce Holdings, Inc.	476.78M	-9.80%	1,110,174	318.00M
+439	AIOT	PowerFleet, Inc.	463.75M	-2.48%	1,010,042	133.74M
+440	RXT	Rackspace Technology, Inc.	456.66M	-7.27%	1,132,625	2.89B
+441	LYTS	LSI Industries Inc.	449.76M	-5.57%	124,033	464.27M
+442	NTGR	NETGEAR, Inc.	443.34M	-7.18%	283,614	724.52M
+443	ALNT	Allient Inc.	432.14M	-6.19%	57,631	579.80M
+444	VPG	Vishay Precision Group, Inc.	426.12M	-4.72%	70,612	346.97M
+445	EB	Eventbrite, Inc.	420.51M	-4.84%	1,683,299	334.47M
+446	SVCO	Silvaco Group, Inc.	417.55M	-3.23%	149,921	55.84M
+447	AEHR	Aehr Test Systems, Inc.	417.42M	-13.05%	2,103,888	71.89M
+448	DAVE	Dave Inc.	412.53M	-4.32%	341,940	273.80M
+449	DDD	3D Systems Corporation	410.98M	-9.14%	1,751,146	505.95M
+450	BAND	Bandwidth Inc.	410.79M	-4.76%	599,608	634.31M
+451	CEVA	CEVA, Inc.	410.09M	-5.18%	207,913	96.48M
+452	NVEC	NVE Corporation	405.11M	0.01%	35,173	27.76M
+453	MEI	Methode Electronics, Inc.	401.29M	-4.46%	502,564	1.11B
+454	CCSI	Consensus Cloud Solutions, Inc.	386.13M	-4.15%	124,036	359.25M
+455	ICG	Intchains Group Limited	385.45M	-12.40%	21,380	80.47M
+456	TROO	TROOPS, Inc.	375.91M	3.93%	232,214	3.57M
+457	PRTH	Priority Technology Holdings, Inc.	369.10M	-10.31%	58,250	776.30M
+458	MTLS	Materialise NV	363.85M	0.49%	99,311	291.87M
+459	AMSWA	American Software, Inc.	359.43M	-0.64%	287,623	102.52M
+460	AVNW	Aviat Networks, Inc.	357.36M	-3.98%	36,014	385.39M
+461	IMMR	Immersion Corporation	354.86M	-7.71%	1,174,362	70.69M
+462	EGHT	8x8, Inc.	353.18M	-2.47%	710,298	728.71M
+463	SMRT	SmartRent, Inc.	345.13M	-3.39%	1,964,166	222.25M
+464	LAW	CS Disco, Inc.	343.06M	-3.21%	171,622	140.53M
+465	RTC	Baijiayun Group Ltd	339.23M	-5.09%	14,142	71.90M
+466	XPER	Xperi Inc.	338.16M	-5.31%	382,817	513.34M
+467	TRAK	ReposiTrak, Inc.	331.31M	-4.37%	50,512	20.07M
+468	TTEC	TTEC Holdings, Inc.	330.52M	-7.82%	184,206	2.41B
+469	BBAI	BigBear.ai Holdings, Inc.	329.74M	-4.29%	4,131,083	146.13M
+470	AUDC	AudioCodes Ltd.	325.91M	-1.82%	86,811	245.53M
+471	RDVT	Red Violet, Inc.	325.69M	-2.59%	37,247	63.09M
+472	WBX	Wallbox N.V.	315.42M	2.05%	278,466	159.74M
+473	DOMO	Domo, Inc.	308.83M	0.62%	415,034	319.63M
+474	LSAK	Lesaka Technologies, Inc.	308.26M	0.41%	19,900	551.33M
+475	CLMB	Climb Global Solutions, Inc.	304.82M	-4.11%	11,519	359.40M
+476	UIS	Unisys Corporation	303.22M	-7.79%	280,480	1.99B
+477	SKYT	SkyWater Technology, Inc.	300.67M	-7.30%	428,320	300.22M
+478	AAOI	Applied Optoelectronics, Inc.	297.65M	-8.93%	3,091,824	205.29M
+479	NRDY	Nerdy, Inc.	291.62M	-0.60%	1,460,627	197.95M
+480	AIP	Arteris, Inc.	287.82M	-1.58%	278,135	53.46M
+481	IBEX	IBEX Limited	284.90M	-0.84%	32,353	508.29M
+482	HEAR	Turtle Beach Corporation	281.95M	-4.73%	231,450	262.53M
+483	FARO	FARO Technologies, Inc.	280.60M	-8.46%	113,414	358.11M
+484	CAN	Canaan Inc.	279.90M	-5.12%	5,692,216	191.34M
+485	TLS	Telos Corporation	276.99M	-3.50%	459,004	139.78M
+486	AEYE	AudioEye, Inc.	267.64M	-4.90%	177,934	32.26M
+487	TCX	Tucows Inc.	254.60M	-1.98%	32,759	346.36M
+488	ONTF	ON24, Inc.	250.77M	-3.23%	157,531	158.37M
+489	BLZE	Backblaze, Inc.	249.83M	-2.90%	254,669	108.59M
+490	OOMA	Ooma, Inc.	245.26M	-5.20%	60,740	242.38M
+491	FRGE	Forge Global Holdings, Inc.	244.40M	-1.46%	264,652	73.58M
+492	GILT	Gilat Satellite Networks Ltd.	243.46M	-1.84%	380,054	283.21M
+493	VLN	Valens Semiconductor Ltd.	241.99M	6.98%	334,702	71.84M
+494	PAYS	Paysign, Inc.	234.96M	-8.93%	424,636	50.32M
+495	ASUR	Asure Software, Inc.	232.32M	-9.91%	296,749	117.67M
+496	CRNT	Ceragon Networks Ltd.	231.23M	-5.26%	629,769	352.27M
+497	API	Agora, Inc.	223.48M	-2.97%	132,924	138.12M
+498	MX	Magnachip Semiconductor Corporation	212.77M	-3.30%	322,984	222.11M
+499	MVIS	MicroVision, Inc.	210.79M	4.07%	1,474,346	7.43M
+500	GPRO	GoPro, Inc.	210.72M	-5.56%	1,398,058	986.21M
+501	APPS	Digital Turbine, Inc.	203.13M	-10.41%	1,996,043	544.48M
+502	EGAN	eGain Corporation	201.33M	-2.32%	45,681	94.98M
+503	PERF	Perfect Corp.	191.48M	-6.00%	19,923	56.87M
+504	SPWR	SunPower Corporation	190.08M	2.58%	5,499,268	1.83B
+505	YIBO	Planet Image International Limited	188.59M	-10.49%	118,548	150.22M
+506	SMXT	SolarMax Technology, Inc.	187.13M	-2.35%	48,968	47.03M
+507	PRCH	Porch Group, Inc.	186.47M	-3.09%	964,140	458.38M
+508	ITI	Iteris, Inc.	185.65M	-5.05%	66,720	171.99M
+509	SSTI	SoundThinking, Inc.	185.63M	0.07%	96,574	97.51M
+510	UBXG	U-BX Technology Ltd.	184.68M	19.79%	21,393	67.13M
+511	NOTE	FiscalNote Holdings, Inc.	182.75M	-6.21%	462,013	133.23M
+512	POET	POET Technologies Inc.	180.77M	-5.12%	513,313	293.65K
+513	GCTS	GCT Semiconductor Holding, Inc.	180.35M	-9.03%	111,854	19.29M
+514	RMNI	Rimini Street, Inc.	177.32M	-4.63%	213,705	429.43M
+515	KLTR	Kaltura, Inc.	170.42M	-7.94%	104,717	176.68M
+516	SANG	Sangoma Technologies Corporation	168.33M	-4.72%	731	250.03M
+517	LGCL	Lucas GC Limited	168.14M	-5.43%	248,475	205.88M
+518	AEVA	Aeva Technologies, Inc.	167.00M	-3.07%	239,817	5.27M
+519	ARBE	Arbe Robotics Ltd.	162.70M	-0.48%	245,424	1.25M
+520	RELL	Richardson Electronics, Ltd.	160.69M	-2.73%	115,202	207.92M
+521	III	Information Services Group, Inc.	158.65M	-1.51%	85,487	276.84M
+522	ZEO	Zeo Energy Corp.	155.93M	7.04%	6,298	80.74M
+523	RGTI	Rigetti Computing, Inc.	154.25M	-5.36%	6,813,753	12.86M
+524	ALAR	Alarum Technologies Ltd.	152.25M	-5.06%	392,120	29.22M
+525	BKSY	BlackSky Technology Inc.	150.40M	-0.98%	513,454	100.33M
+526	DM	Desktop Metal, Inc.	145.90M	-6.99%	640,605	174.63M
+527	FEBO	Fenbo Holdings Limited	145.36M	-0.61%	26,494	15.25M
+528	RCAT	Red Cat Holdings, Inc.	144.85M	-7.58%	1,039,944	13.73M
+529	REKR	Rekor Systems, Inc.	144.24M	-2.40%	558,773	38.53M
+530	UEIC	Universal Electronics Inc.	143.86M	-5.18%	30,961	403.98M
+531	LTRX	Lantronix, Inc.	142.43M	-5.01%	218,392	146.18M
+532	CSPI	CSP Inc.	142.02M	-3.58%	34,387	62.12M
+533	QUIK	QuickLogic Corporation	137.75M	-5.63%	351,291	23.07M
+534	EXFY	Expensify, Inc.	137.36M	-6.47%	547,465	144.12M
+535	QBTS	D-Wave Quantum Inc.	127.64M	-2.58%	3,234,593	9.64M
+536	MRAM	Everspin Technologies, Inc.	126.54M	-2.49%	138,739	63.35M
+537	FEIM	Frequency Electronics, Inc.	125.61M	-0.23%	117,383	52.70M
+538	ORKT	Orangekloud Technology Inc.	122.83M	-0.39%	17,058	4.59M
+539	AXTI	AXT, Inc.	118.99M	-18.54%	1,022,266	79.08M
+540	CRNC	Cerence Inc.	112.38M	-6.60%	439,181	348.58M
+541	GNSS	Genasys Inc.	111.49M	-0.79%	41,697	35.06M
+542	RYDE	Ryde Group Ltd	111.18M	-4.30%	706,320	6.53M
+543	ALOT	AstroNova, Inc.	110.15M	-3.49%	10,785	145.63M
+544	SNCR	Synchronoss Technologies, Inc.	107.92M	-0.60%	52,561	149.45M
+545	TSAT	Telesat Corporation	107.65M	-0.99%	10,099	494.79M
+546	INSG	Inseego Corp.	107.30M	-2.59%	128,087	189.90M
+547	XNET	Xunlei Limited	105.58M	-1.20%	23,289	344.79M
+548	XTKG	X3 Holdings Co Ltd.	105.38M	0.98%	115,422	16.82M
+549	ALLT	Allot Ltd.	103.41M	-4.95%	91,909	93.91M
+550	CCRD	CoreCard Corporation	102.99M	2.77%	26,893	54.32M
+551	KOPN	Kopin Corporation	102.23M	-8.14%	1,356,513	39.67M
+552	RDZN	Roadzen, Inc.	100.27M	-4.87%	91,625	46.72M
+553	VCSA	Vacasa, Inc.	99.61M	-2.48%	30,402	1.07B
+554	MYNA	Mynaric AG	99.22M	-5.93%	974	5.99M
+555	BCOV	Brightcove Inc.	98.97M	-4.31%	200,084	202.61M
+556	SOL	Emeren Group Ltd	98.96M	-3.73%	186,736	86.34M
+557	INTT	inTEST Corporation	96.92M	-22.01%	434,072	121.21M
+558	DHX	DHI Group, Inc.	96.68M	-1.48%	134,853	149.28M
+559	BKKT	Bakkt Holdings, Inc.	95.91M	-3.33%	119,613	1.62B
+560	LPSN	LivePerson, Inc.	94.82M	-6.14%	3,012,272	379.47M
+561	AUID	authID Inc.	93.26M	-7.48%	3,867	309.81K
+562	LUNA	Luna Innovations Incorporated	93.05M	-8.67%	219,294	116.61M
+563	VERI	Veritone, Inc.	91.81M	-3.57%	343,276	128.93M
+564	MAPS	WM Technology, Inc.	91.35M	-4.84%	434,086	184.38M
+565	MPTI	M-tron Industries, Inc.	91.32M	-0.43%	36,445	42.99M
+566	TYGO	Tigo Energy, Inc.	90.55M	-5.06%	14,935	104.98M
+567	KVHI	KVH Industries, Inc.	88.72M	-1.75%	168,290	127.96M
+568	MRT	Marti Technologies, Inc.	88.33M	-3.75%	48,534	20.03M
+569	VTSI	VirTra, Inc.	86.32M	-6.39%	150,922	36.11M
+570	ATOM	Atomera Incorporated	85.64M	-1.44%	253,744	640.00K
+571	RSSS	Research Solutions, Inc.	85.22M	-6.05%	8,532	42.45M
+572	CMTL	Comtech Telecommunications Corp.	84.77M	-6.15%	341,352	563.03M
+573	PSQH	PSQ Holdings, Inc.	84.76M	7.57%	144,940	9.68M
+574	AISP	Airship AI Holdings, Inc.	80.23M	-8.15%	377,269	22.87M
+575	ASYS	Amtech Systems, Inc.	79.71M	-0.88%	66,532	108.80M
+576	BEEM	Beam Global	76.47M	-8.36%	146,037	68.89M
+577	KOSS	Koss Corporation	76.35M	-9.44%	331,615	12.48M
+578	WRAP	Wrap Technologies, Inc.	73.40M	-0.60%	43,354	9.13M
+579	VUZI	Vuzix Corporation	73.14M	-5.04%	725,488	9.94M
+580	SILC	Silicom Ltd.	72.82M	-6.43%	82,689	77.69M
+581	KPLT	Katapult Holdings, Inc.	72.05M	-8.93%	25,146	230.97M
+582	ONDS	Ondas Holdings Inc.	70.25M	-5.36%	512,411	13.72M
+583	UPLD	Upland Software, Inc.	68.98M	8.46%	363,935	291.53M
+584	AIRG	Airgain, Inc.	68.01M	-11.13%	86,758	53.83M
+585	GSIT	GSI Technology, Inc.	65.14M	-3.76%	124,951	21.77M
+586	OCFT	OneConnect Financial Technology Co., Ltd.	64.53M	-1.34%	1,492	481.23M
+587	MKFG	Markforged Holding Corporation	63.23M	-8.08%	648,435	90.24M
+588	ELTK	Eltek Ltd.	62.99M	-3.43%	29,736	47.01M
+589	SPRU	Spruce Power Holding Corporation	62.91M	-1.74%	33,907	80.05M
+590	REFR	Research Frontiers Incorporated	62.34M	-2.36%	53,894	974.80K
+591	BMR	Beamr Imaging Ltd.	61.87M	-2.38%	396,254	2.91M
+592	CSLR	Complete Solaria, Inc.	61.06M	-1.64%	106,071	87.53M
+593	SOTK	Sono-Tek Corporation	59.54M	-2.83%	16,136	21.13M
+594	WFCF	Where Food Comes From, Inc.	57.25M	-3.18%	2,201	25.45M
+595	BNAI	Brand Engagement Network, Inc.	57.18M	-12.15%	149,230	85.00K
+596	SWVL	Swvl Holdings Corp.	57.15M	-16.78%	35,696	22.85M
+597	MTC	MMTec, Inc.	56.80M	-7.70%	1,365,843	869.94K
+598	SATX	Satixfy Communications Ltd.	56.55M	-1.67%	45,362	11.33M
+599	PET	Wag! Group Co.	55.71M	-1.69%	195,806	86.51M
+600	IDN	Intellicheck, Inc.	55.48M	-6.25%	102,274	19.33M
+601	CMBM	Cambium Networks Corporation	54.95M	-2.96%	92,628	185.13M
+602	QUBT	Quantum Computing Inc.	54.64M	-6.53%	631,422	358.05K
+603	ARQQ	Arqit Quantum Inc.	54.60M	-5.20%	828,131	740.00K
+604	VOXX	VOXX International Corporation	53.72M	-4.02%	105,309	448.65M
+605	LPTH	LightPath Technologies, Inc.	53.17M	-4.20%	15,120	32.78M
+606	PXLW	Pixelworks, Inc.	52.93M	-2.41%	167,177	65.77M
+607	EGIO	Edgio, Inc.	52.64M	-6.84%	51,036	379.92M
+608	SURG	SurgePays, Inc.	51.05M	-3.31%	183,314	133.79M
+609	ATGL	Alpha Technology Group Limited	50.52M	0.91%	3,326	1.11M
+610	FTCI	FTC Solar, Inc.	50.40M	-2.58%	445,529	98.70M
+611	ZENV	Zenvia Inc.	50.24M	-	32,186	167.23M
+612	OPTX	Syntec Optics Holdings, Inc.	49.90M	-8.11%	40,389	29.44M
+613	FKWL	Franklin Wireless Corp.	49.73M	-3.43%	11,934	41.68M
+614	CPTN	Cepton, Inc.	47.81M	-	144,145	13.52M
+615	KULR	KULR Technology Group, Inc.	47.16M	-5.28%	2,022,321	9.82M
+616	CREX	Creative Realities, Inc.	46.49M	-2.20%	39,990	47.51M
+617	SYT	SYLA Technologies Co., Ltd.	45.66M	6.06%	25,026	160.39M
+618	OSS	One Stop Systems, Inc.	45.18M	-0.46%	57,953	56.77M
+619	BKTI	BK Technologies Corporation	45.18M	-	19,598	73.60M
+620	PDYN	Palladyne AI Corp.	44.42M	-9.73%	100,350	7.29M
+621	SELX	Semilux International Ltd.	44.17M	-6.35%	16,650	1.07M
+622	KTCC	Key Tronic Corporation	43.80M	6.54%	40,810	596.32M
+623	DZSI	DZS Inc.	43.75M	0.43%	199,856	389.46M
+624	INUV	Inuvo, Inc.	43.03M	-2.54%	234,674	79.09M
+625	NVNI	Nvni Group Limited	42.88M	1.34%	5,545	23.54M
+626	AWRE	Aware, Inc.	42.80M	-2.87%	25,036	18.36M
+627	NEON	Neonode Inc.	41.47M	-3.91%	59,757	4.21M
+628	LINK	Interlink Electronics, Inc.	40.92M	-3.04%	16,500	13.79M
+629	USIO	Usio, Inc.	40.70M	-2.53%	11,915	81.47M
+630	XBP	XBP Europe Holdings, Inc.	39.52M	-6.43%	56,985	121.75M
+631	EBON	Ebang International Holdings Inc.	39.26M	-1.80%	24,327	4.86M
+632	AIXI	Xiao-I Corporation	38.89M	-8.13%	122,039	59.17M
+633	PALT	Paltalk, Inc.	38.83M	-3.22%	54,450	11.01M
+634	DSWL	Deswell Industries, Inc.	38.56M	-2.22%	13,065	69.37M
+635	MSAI	MultiSensor AI Holdings, Inc.	37.89M	-1.85%	36,861	7.71M
+636	MRDB	MariaDB plc	37.60M	-2.08%	68,868	54.03M
+637	MNDO	MIND C.T.I. Ltd	37.44M	-0.80%	55,098	21.89M
+638	TACT	TransAct Technologies Incorporated	37.08M	-3.39%	90,889	61.05M
+639	ISDR	Issuer Direct Corporation	36.72M	0.73%	7,948	31.72M
+640	DGHI	Digihost Technology Inc.	36.08M	-3.91%	57,748	34.97M
+641	WYY	WidePoint Corporation	33.80M	-2.16%	136,592	114.96M
+642	DTST	Data Storage Corporation	33.79M	-5.29%	95,522	26.32M
+643	QMCO	Quantum Corporation	33.57M	-4.81%	346,876	311.60M
+644	INLX	Intellinetics, Inc.	33.20M	1.89%	10,203	17.21M
+645	PHUN	Phunware, Inc.	33.01M	-4.32%	533,643	1.01M
+646	HOLO	MicroCloud Hologram Inc.	32.96M	-5.10%	22,446,274	28.71M
+647	AXIL	AXIL Brands, Inc.	32.33M	-5.56%	6,705	27.89M
+648	NTWK	NetSol Technologies, Inc.	31.59M	-3.15%	78,909	58.73M
+649	BMTX	BM Technologies, Inc.	31.58M	-6.09%	101,472	57.95M
+650	MOBX	Mobix Labs, Inc.	31.27M	-5.74%	113,894	2.65M
+651	ZEPP	Zepp Health Corporation	31.23M	-9.18%	115,389	296.86M
+652	SQNS	Sequans Communications S.A.	30.61M	-3.23%	125,840	27.74M
+653	MOGO	Mogo Inc.	29.91M	-8.96%	45,037	49.46M
+654	LGL	The LGL Group, Inc.	29.44M	-0.15%	1,226	3.26M
+655	KNW	Know Labs, Inc.	28.91M	2.67%	111,241	-
+656	CXAI	CXApp Inc.	28.85M	-3.08%	296,002	7.56M
+657	NA	Nano Labs Ltd	26.88M	-2.97%	55,702	78.34M
+658	BTCM	BIT Mining Limited	26.78M	-9.74%	113,465	43.10M
+659	GRRR	Gorilla Technology Group Inc.	26.56M	-4.02%	190,349	64.69M
+660	GMM	Global Mofy Metaverse Limited	26.56M	2.13%	1,025,422	33.99M
+661	UTSI	UTStarcom Holdings Corp.	24.72M	-1.13%	254	15.75M
+662	TRT	Trio-Tech International	24.39M	3.96%	2,576	41.65M
+663	JFU	9F Inc.	23.72M	-	5,734	78.29M
+664	CPSH	CPS Technologies Corporation	23.23M	-	20,833	26.36M
+665	WTO	UTime Limited	22.65M	-6.77%	111,308	21.55M
+666	VHC	VirnetX Holding Corporation	22.64M	-4.35%	1,022	5.00K
+667	APCX	AppTech Payments Corp.	22.26M	-7.98%	55,889	520.00K
+668	WKEY	WISeKey International Holding AG	22.17M	-	9,069	30.92M
+669	DAIO	Data I/O Corporation	21.93M	-5.81%	25,883	26.93M
+670	IZM	ICZOOM Group Inc.	21.78M	-4.11%	129,147	181.92M
+671	AGMH	AGM Group Holdings Inc.	21.59M	18.83%	810,490	92.91M
+672	SMSI	Smith Micro Software, Inc.	21.04M	-20.16%	166,350	35.73M
+673	OCC	Optical Cable Corporation	20.99M	-5.67%	756	65.24M
+674	CLPS	CLPS Incorporation	20.24M	-5.50%	7,494	145.37M
+675	NXPL	NextPlat Corp	20.09M	-1.83%	54,166	52.37M
+676	DUOT	Duos Technologies Group, Inc.	19.81M	-9.00%	33,918	5.90M
+677	LDTC	LeddarTech Holdings Inc.	19.81M	3.41%	23,149	7.93M
+678	ULY	Urgent.ly Inc.	19.06M	0.71%	5,752	178.63M
+679	PXDT	Pixie Dust Technologies, Inc.	18.81M	-4.89%	15,735	5.64M
+680	SYNX	Silynxcom Ltd.	18.80M	2.00%	3,553	7.63M
+681	VLD	Velo3D, Inc.	18.78M	-7.63%	170,303	60.42M
+682	HKIT	Hitek Global Inc.	18.78M	-1.14%	12,106	4.56M
+683	TAIT	Taitron Components Incorporated	17.30M	-1.78%	27,931	4.99M
+684	SGMA	SigmaTron International, Inc.	17.25M	0.35%	85,022	399.71M
+685	VISL	Vislink Technologies, Inc.	16.55M	0.45%	85,214	28.89M
+686	BOSC	B.O.S. Better Online Solutions Ltd.	16.35M	-2.23%	7,489	43.33M
+687	CLRO	ClearOne, Inc.	16.18M	-3.83%	12,470	18.15M
+688	JG	Aurora Mobile Limited	16.14M	-6.18%	1,155	40.18M
+689	ZPTA	Zapata Computing Holdings Inc.	15.66M	-6.21%	587,516	6.90M
+690	SONM	Sonim Technologies, Inc.	15.65M	-2.33%	27,805	84.61M
+691	FAAS	DigiAsia Corp.	15.50M	-10.49%	52,820	77.77M
+692	VRAR	The Glimpse Group, Inc.	15.46M	3.90%	52,027	9.99M
+693	LAES	SEALSQ Corp	15.24M	-9.15%	337,639	30.06M
+694	TURB	Turbo Energy, S.A.	14.87M	3.05%	26,920	14.35M
+695	HTCR	HeartCore Enterprises, Inc.	14.34M	14.13%	9,981	18.16M
+696	MMAT	Meta Materials Inc.	13.99M	-15.38%	202,959	9.83M
+697	XELA	Exela Technologies, Inc.	13.94M	-4.78%	46,620	1.05B
+698	FCUV	Focus Universal Inc.	13.28M	-11.25%	43,294	1.04M
+699	ELSE	Electro-Sensors, Inc.	13.06M	-1.55%	6,196	8.75M
+700	JDZG	Jiade Limited	12.93M	-4.88%	140,300	2.18M
+701	MTEK	Maris-Tech Ltd.	12.88M	-0.93%	23,080	4.03M
+702	SGE	Strong Global Entertainment, Inc.	12.05M	-	7,920	43.74M
+703	SMTK	SmartKem, Inc.	11.48M	9.66%	240	11.00K
+704	LIDR	AEye, Inc.	11.42M	-1.48%	185,731	848.00K
+705	RVYL	Ryvyl Inc.	11.39M	-9.28%	26,888	71.35M
+706	AKTS	Akoustis Technologies, Inc.	10.92M	-11.89%	5,271,447	29.86M
+707	MSN	Emerson Radio Corp.	10.52M	-1.57%	16,970	9.07M
+708	LEDS	SemiLEDs Corporation	10.29M	-0.69%	2,334	5.31M
+709	SPI	SPI Energy Co., Ltd.	10.11M	-5.60%	48,865	209.89M
+710	GVP	GSE Systems, Inc.	10.08M	-1.89%	10,339	45.45M
+711	AMPG	AmpliTech Group, Inc.	10.01M	-11.21%	79,846	13.77M
+712	EMKR	EMCORE Corporation	9.92M	2.56%	241,116	89.70M
+713	WISA	WiSA Technologies, Inc.	9.89M	-2.43%	110,275	1.87M
+714	MLGO	MicroAlgo Inc.	9.82M	4.88%	9,333,469	81.81M
+715	MAXN	Maxeon Solar Technologies, Ltd.	9.24M	-7.21%	45,723,674	992.23M
+716	BLBX	Blackboxstocks Inc.	9.04M	7.81%	6,181	2.90M
+717	ASNS	Actelis Networks, Inc.	8.90M	0.68%	1,709,273	4.48M
+718	BLIN	Bridgeline Digital, Inc.	8.87M	-4.38%	26,705	15.27M
+719	LKCO	Luokung Technology Corp.	8.86M	-6.70%	21,881	36.98M
+720	ARBB	ARB IOT Group Limited	8.49M	-10.63%	73,738	245.76M
+721	DTSS	Datasea Inc.	8.10M	-5.29%	23,741	23.28M
+722	CTM	Castellum, Inc.	8.04M	-1.56%	473,857	46.64M
+723	STEC	Santech Holdings Ltd.	7.97M	-5.46%	24,758	-
+724	VERB	Verb Technology Company, Inc.	7.93M	-10.59%	4,125,886	68.00K
+725	MFI	mF International Limited	7.61M	-10.47%	118,537	4.09M
+726	HUBC	HUB Cyber Security Ltd.	7.58M	2.51%	1,057,052	73.04M
+727	SCKT	Socket Mobile, Inc.	7.55M	-6.54%	11,943	17.70M
+728	PEGY	Pineapple Energy Inc.	7.31M	-9.01%	648,807	70.79M
+729	ASTI	Ascent Solar Technologies, Inc.	7.27M	-6.56%	3,288,288	339.64K
+730	EZFL	EZFill Holdings Inc.	7.07M	10.90%	36,291	24.58M
+731	CYN	Cyngn Inc.	7.05M	-1.39%	72,719	622.03K
+732	JNVR	Janover Inc.	6.86M	-9.63%	70,915	1.95M
+733	INTZ	Intrusion Inc.	6.64M	-1.79%	81,432	5.43M
+734	FTFT	Future FinTech Group Inc.	6.60M	-9.29%	149,333	36.59M
+735	WLDS	Wearable Devices Ltd.	6.52M	-2.76%	679,927	82.00K
+736	CAUD	Collective Audience, Inc.	6.49M	-10.79%	54,327	12.14M
+737	MIND	MIND Technology, Inc.	6.47M	3.84%	218,214	36.78M
+738	ELWS	Earlyworks Co., Ltd	6.44M	-2.28%	6,384	462.66K
+739	AMST	Amesite Inc.	6.42M	-11.40%	4,046	262.04K
+740	WRNT	Warrantee Inc.	6.41M	2.29%	242,947	1.84M
+741	NUKK	Nukkleus Inc.	6.36M	31.04%	3,684,008	21.30M
+742	SVRE	SaverOne 2014 Ltd.	6.21M	-6.43%	84,043	2.72M
+743	BCAN	Femto Technologies Inc.	6.18M	-1.09%	148,786	965.19K
+744	MITQ	Moving iMage Technologies, Inc.	6.11M	-9.47%	104,155	19.56M
+745	VVPR	VivoPower International PLC	6.06M	-3.50%	73,912	12.24M
+746	MRIN	Marin Software Incorporated	6.04M	-5.12%	32,831	17.18M
+747	WATT	Energous Corporation	5.83M	-6.69%	40,698	441.51K
+748	CISO	CISO Global Inc.	5.63M	-6.50%	69,220	55.17M
+749	BOXL	Boxlight Corporation	5.43M	-5.32%	42,322	172.62M
+750	MOB	Mobilicom Limited	5.33M	-4.66%	12,563	2.25M
+751	SPPL	Simpple Ltd.	5.10M	-4.67%	38,264	3.53M
+752	UAVS	AgEagle Aerial Systems, Inc.	5.07M	1.92%	411,220	13.58M
+753	PRST	Presto Automation Inc.	4.96M	-6.02%	48,518,407	19.05M
+754	DATS	DatChat, Inc.	4.94M	-5.20%	51,288	649.00
+755	IDAI	T Stamp Inc.	4.64M	5.87%	910,292	4.68M
+756	OBLG	Oblong, Inc.	4.54M	-6.77%	524,636	3.40M
+757	BTCT	BTC Digital Ltd.	4.41M	-2.31%	11,513	-
+758	OLB	The OLB Group, Inc.	4.40M	-4.96%	3,054	27.45M
+759	IFBD	Infobird Co., Ltd	4.37M	-4.78%	17,040	280.00K
+760	NXTT	Next Technology Holding Inc.	4.33M	-14.06%	218,608	2.63M
+761	WAVD	WaveDancer, Inc.	4.31M	-2.28%	6,869	7.74M
+762	OST	Ostin Technology Group Co., Ltd.	4.29M	-7.14%	21,438	57.53M
+763	SOPA	Society Pass Incorporated	4.07M	0.65%	60,625	7.98M
+764	VS	Versus Systems Inc.	3.71M	-3.90%	18,581	139.72K
+765	JTAI	Jet.AI Inc.	3.70M	-5.38%	482,273	14.19M
+766	PRSO	Peraso Inc.	3.68M	-8.11%	91,955	11.53M
+767	SOBR	SOBR Safe, Inc.	3.64M	-10.85%	1,059,928	157.41K
+768	IMTE	Integrated Media Technology Limited	3.57M	-7.78%	6,427	831.02K
+769	SYTA	Siyata Mobile Inc.	3.50M	-5.52%	274,935	8.79M
+770	VHAI	Vocodia Holdings Corp	3.44M	-10.16%	8,057,631	256.39K
+771	MICS	The Singing Machine Company, Inc.	3.43M	-9.95%	96,080	31.62M
+772	ATCH	AtlasClear Holdings, Inc.	3.36M	-4.26%	428,921	-
+773	AUUD	Auddia Inc.	3.30M	-1.67%	35,711	-
+774	FRGT	Freight Technologies, Inc.	3.08M	-2.23%	952,571	17.06M
+775	SGN	Signing Day Sports, Inc.	3.07M	-12.39%	230,749	488.19K
+776	TAOP	Taoping Inc.	3.07M	-2.87%	37,110	38.64M
+777	BNZI	Banzai International, Inc.	2.96M	-13.58%	1,474,201	5.64M
+778	CETX	Cemtrex, Inc.	2.76M	-8.49%	773,130	65.36M
+779	QH	Quhuo Limited	2.69M	-3.07%	86,820	522.20M
+780	SING	SinglePoint Inc.	2.58M	-3.34%	2,823,872	26.32M
+781	LYT	Lytus Technologies Holdings PTV. Ltd.	2.51M	-8.00%	28,831	22.62M
+782	TGL	Treasure Global Inc.	2.44M	-5.11%	38,365	37.03M
+783	MYSZ	My Size, Inc.	2.15M	-8.27%	33,466	9.26M
